@@ -1,0 +1,241 @@
+{
+  "main": {
+    "name": "Rahul Ray",
+    "occupation": "Android Developer && Mern Stack Developer",
+    "description": "Currently Employed by MathonGo where I work as an Android Developer",
+    "image": "rahul_ray.jpg",
+    "bio": "A developer by passion, a tech enthusiast, a full-stack developer, tech blogger. A Hands-on, successful Software Engineer with verifiable success leading teams in delivering appropriate technology solutions for web and mobile products. Comprehensive knowledge of platform development, enterprise architecture, agile methodologies, cloud services, and web-based applications. Innovative change agent with a unique mix of high-level technology direction and deep technical expertise.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "rahul9650ray@gmail.com",
+    "phone": "+91 9650124756",
+    "address": {
+      "street": "C-103, Harphool Vihar, Jai Vihar, Phase-3",
+      "city": "New Delhi",
+      "state": "India",
+      "zip": "110043"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1zPRXG4GYbUtHC7Lk5ZIJHu44fk9N5IER/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/rahul-ray-1b6748151/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/raystatic/",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/raystatic_",
+        "className": "fa fa-twitter"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Institute of Informatics and Communication, University of Delhi",
+        "degree": "M.Sc Informatics",
+        "graduated": "June 2021",
+        "description": ""
+      },
+      {
+        "school": "Keshav Mahavidyalaya, University of Delhi",
+        "degree": "B.Sc (Honors) Computer Science",
+        "graduated": "June 2019",
+        "description": "Graduated with 7.1 CGPA"
+      }
+    ],
+    "work": [
+      {
+        "company": "Mathongo",
+        "title": "Android Developer",
+        "years": "Apr-2020 to Present",
+        "description": "Develop various Android Apps for the company."
+      },
+      {
+        "company": "Rising Technosoft PVT. LTD.",
+        "title": "Android Developer",
+        "years": "June-2018 to March-2020",
+        "description": "Developed various stock marketing apps for various clients of the company from the scratch."
+      },
+      {
+        "company": "Vkarma Edutech PVT. LTD.",
+        "title": "Senior Android Developer",
+        "years": "June-2019 to September-2019",
+        "description": "Lead the android team in building the Android app for the company."
+      },
+      {
+        "company": "Kkekk.co.in",
+        "title": "Junior Android Developer",
+        "years": "August-2018 to March-2019",
+        "description": "Developed various features and fixed bugs in the existing app under the guidence of senior developers."
+      },
+      {
+        "company": "Genefusion L.L.C.",
+        "title": "Junior Android Developer",
+        "years": "september-2017 to June-2018",
+        "description": "Worked in team of four developers. Developed new features and fixed bugs."
+      },
+      {
+        "company": "ShardaTech",
+        "title": "Junior Android Developer",
+        "years": "september-2017 to June-2018",
+        "description": "Worked as a junior Android Developer. Mainly worked on the frontend of the app"
+      }
+  ],
+    "skills": [
+      {
+        "name": "Android",
+        "level": "95%"
+      },
+      {
+        "name": "Kotlin",
+        "level": "95%"
+      },
+      {
+        "name": "C++",
+        "level": "95%"
+      },{
+        "name": "GIT",
+        "level": "90%"
+      },
+      {
+        "name": "React",
+        "level": "80%"
+      },
+      {
+        "name": "Node",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "Express",
+        "level": "80%"
+      },
+      {
+        "name": "Ethereum",
+        "level": "55%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "EasyScan (Android)",
+        "category": "Now convert your documents to pdf in no time",
+        "image": "easyscan.png",
+        "url": "https://play.google.com/store/apps/details?id=com.easyscan.docscanner"
+      },
+      {
+        "title": "Note-Karo (Android)",
+        "category": "Now save your notes remotely without taking care of the local storage.",
+        "image": "notekaro.png",
+        "url": "https://play.google.com/store/apps/details?id=com.raystatic.notekaro"
+      },
+      {
+        "title": "MERN Tinder Clone",
+        "category": "Tinder Clone built with MERN Stack",
+        "image": "tinder_mern.png",
+        "url": "https://tinder-react-clone-1f20b.web.app/"
+      },
+      {
+        "title": "React Spotify Clone",
+        "category": "Spotify Clone built with React and SpotifyWebApi",
+        "image": "spotify.png",
+        "url": "https://spotify-clone-react-86a38.web.app/#"
+      },
+      {
+        "title": "React Amazon Clone",
+        "category": "Amazon Clone built with React and Firebase",
+        "image": "amazon.png",
+        "url": "https://clone-47077.web.app/"
+      },
+      {
+        "title": "React Instagram Clone",
+        "category": "Instagram Clone built with React and Firebase",
+        "image": "react_insta_clone.png",
+        "url": "https://instagram-clone-react-1b0ac.web.app/ "
+      },
+      {
+        "title": "React Chat App",
+        "category": "Chat App built with React, Node and Socket.io",
+        "image": "web_chat.png",
+        "url": "https://raystatic-chat-app.netlify.app/"
+      },
+      {
+        "title": "Mentor-Me (MathonGo)",
+        "category": "Android app built for MathonGo",
+        "image": "mentor_me.png",
+        "url": "https://play.google.com/store/apps/details?id=com.mathongo.mentorship"
+      },
+      {
+        "title": "Handwritten-Digit Classifier",
+        "category": "Android app to detect hand written digits using Tensorflow",
+        "image": "hand_digit.png",
+        "url": "https://github.com/raystatic/DigitClassifier"
+      },
+      {
+        "title": "Prepareurself",
+        "category": "Android App to provide theory and video resources at one place",
+        "image": "prep.png",
+        "url": "https://play.google.com/store/apps/details?id=com.prepare.prepareurself&hl=en_IN"
+      },
+      {
+        "title": "PlayIt",
+        "category": "Android app inspired from Spotiy app",
+        "image": "playit.png",
+        "url": "https://play.google.com/store/apps/details?id=com.spotify.playit&hl=en_IN"
+      },
+      {
+        "title": "WalletLog",
+        "category": "Android app to manage your expenses",
+        "image": "walletlog.png",
+        "url": "https://play.google.com/store/apps/details?id=com.walletLog.pocketmanager&hl=en_IN"
+      },
+      {
+        "title": "Election (Ethereum)",
+        "category": "Decentralised application to coduct elections",
+        "image": "election.png",
+        "url": "https://github.com/raystatic/election_blockchain"
+      },
+      {
+        "title": "Vkarma-One Stop Adminstrative Solution",
+        "category": "Android app for coacing centers",
+        "image": "vkarma.png",
+        "url": "https://play.google.com/store/apps/details?id=com.vkarma.app"
+      },
+      {
+        "title": "Qupiq - Compare & Delete Duplicate Photos",
+        "category": "Android app to compare duplicate photos",
+        "image": "qupiq.png",
+        "url": "https://play.google.com/store/apps/details?id=com.instapick"
+      },
+      {
+        "title": "Funcandi-Analysis Driven Toy Market",
+        "category": "Android app to provide best toys for children",
+        "image": "funcandi.png",
+        "url": "https://play.google.com/store/apps/details?id=com.geniefusion.genie.funcandi"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
